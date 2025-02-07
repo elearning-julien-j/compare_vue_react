@@ -1,6 +1,8 @@
 <script setup>
 import { ref } from "vue";
 
+console.log("compoenent create");
+
 const count = ref(0);
 </script>
 
